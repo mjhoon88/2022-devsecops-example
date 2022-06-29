@@ -11,5 +11,3 @@ after_success:
 addons:
   sonarcloud:
     organization: "mjhoon88"
-    token:
-      secure: "**************************" # encrypted value of your token
